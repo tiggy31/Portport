@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: "Type";
+    src: url('Typefesse_Claire-Obscure.woff')
+}
+
+body {
+    font-family: "Type";
+    font-weight: 300;
+   font-size: 30px;
+   background-color: transparent;
+    color:blue;
+    
+}
